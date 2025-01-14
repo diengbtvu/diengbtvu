@@ -1,7 +1,7 @@
 <img src="https://github.com/vhiepp/vhiepp/blob/main/led-rgb.gif" width="100%">
 <img align="center" src="https://github.com/vhiepp/vhiepp/blob/main/mario3.gif" width="100%">
 
-<h1 align="center">Hi 👋, I'm Trần Minh ĐIền</h1>
+<h1 align="center">Hi 👋, I'm Trần Minh Điền</h1>
 
 <p>I'm a Java Spring Boot programmer who enjoys working on challenging and high-impact software projects. I have experience with back-end development and use Spring Boot extensively to build reliable, scalable applications. I'm always looking for new ways to improve my skills and collaborate on interesting projects.</p>
 
