@@ -2,9 +2,9 @@
 <img align="center" src="https://github.com/diengbtvu/diengbtvu/blob/main/mario3.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Trần Minh Điền</h1>
-
-<img align="center" src="https://github.com/diengbtvu/diengbtvu/blob/main/mario3.gif"/>
-
+<p> </p>
+<img align="center" src="https://github.com/diengbtvu/diengbtvu/blob/main/avtt.jpg" width="50%"/>
+<p> </p>
 <p>I'm a Java Spring Boot programmer who enjoys working on challenging and high-impact software projects. I have experience with back-end development and use Spring Boot extensively to build reliable, scalable applications. I'm always looking for new ways to improve my skills and collaborate on interesting projects.</p>
 
 <h3 align="center">Contact me</h3>
