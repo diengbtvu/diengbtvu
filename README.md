@@ -2,7 +2,6 @@
 <img src="https://github.com/diengbtvu/diengbtvu/blob/main/mario3.gif" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Trần Minh Điền</h1>
-
 <p align="center">
     <img src="https://github.com/diengbtvu/diengbtvu/blob/main/avtt_circle_with_border.png" 
          style="width: 50%; border-radius: 50%;" 
