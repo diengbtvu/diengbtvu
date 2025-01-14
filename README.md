@@ -3,7 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Trần Minh Điền</h1>
 <p> </p>
-<img align="center" src="https://github.com/diengbtvu/diengbtvu/blob/main/avtt.jpg" width="50%"/>
+<p style="text-align: center;">
+    <img src="https://github.com/diengbtvu/diengbtvu/blob/main/avtt.jpg" 
+         style="width: 50%; border-radius: 50%; display: block; margin: 0 auto;" 
+         alt="Avatar" />
+</p>
 <p> </p>
 <p>I'm a Java Spring Boot programmer who enjoys working on challenging and high-impact software projects. I have experience with back-end development and use Spring Boot extensively to build reliable, scalable applications. I'm always looking for new ways to improve my skills and collaborate on interesting projects.</p>
 
