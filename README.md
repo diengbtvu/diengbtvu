@@ -1,14 +1,14 @@
-<img src="https://github.com/diengbtvu/diengbtvu/blob/main/led-rgb.gif" width="100%">
-<img align="center" src="https://github.com/diengbtvu/diengbtvu/blob/main/mario3.gif" width="100%">
+<img src="https://github.com/diengbtvu/diengbtvu/blob/main/led-rgb.gif" width="100%"/>
+<img src="https://github.com/diengbtvu/diengbtvu/blob/main/mario3.gif" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Trần Minh Điền</h1>
-<p> </p>
-<p style="text-align: center;">
+
+<p align="center">
     <img src="https://github.com/diengbtvu/diengbtvu/blob/main/avtt.jpg" 
-         style="width: 50%; border-radius: 50%; display: block; margin: 0 auto;" 
+         style="width: 50%; border-radius: 50%;" 
          alt="Avatar" />
 </p>
-<p> </p>
+
 <p>I'm a Java Spring Boot programmer who enjoys working on challenging and high-impact software projects. I have experience with back-end development and use Spring Boot extensively to build reliable, scalable applications. I'm always looking for new ways to improve my skills and collaborate on interesting projects.</p>
 
 <h3 align="center">Contact me</h3>
@@ -17,7 +17,7 @@
     <img src="https://github.com/diengbtvu/diengbtvu/blob/main/fb.png" width="48" height="48" />
   </a>
   <a href="mailto:dientrantravinh02@gmail.com">
-    <img src="https://github.com/diengbtvu/diengbtvu/blob/main/gmail.svg" />
+    <img src="https://github.com/diengbtvu/diengbtvu/blob/main/gmail.svg" width="48" height="48" />
   </a>
 </p>
 
@@ -28,11 +28,12 @@
   <li>🤝 Open to collaborating on web or software development projects.</li>
 </ul>
 
-<h1></h1>
 <h3 align="center">Software and Technology</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://github.com/diengbtvu/diengbtvu/blob/main/tech.svg" />
   </a>
 </p>
-<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="38" height="38"/>
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="38" height="38"/>
+</p>
