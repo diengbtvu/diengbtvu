@@ -1,5 +1,5 @@
-<img src="https://github.com/vhiepp/vhiepp/blob/main/led-rgb.gif" width="100%">
-<img align="center" src="https://github.com/vhiepp/vhiepp/blob/main/mario3.gif" width="100%">
+<img src="https://github.com/diengbtvu/diengbtvu/blob/main/led-rgb.gif" width="100%">
+<img align="center" src="https://github.com/diengbtvu/diengbtvu/blob/main/mario3.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Trần Minh Điền</h1>
 
@@ -8,10 +8,10 @@
 <h3 align="center">Contact me</h3>
 <p align="center">
   <a href="https://www.facebook.com/gbbeefarm">
-    <img src="https://github.com/vhiepp/vhiepp/blob/main/fb.png" width="48" height="48" />
+    <img src="https://github.com/diengbtvu/diengbtvu/blob/main/fb.png" width="48" height="48" />
   </a>
   <a href="mailto:dientrantravinh02@gmail.com">
-    <img src="https://github.com/vhiepp/vhiepp/blob/main/gmail.svg" />
+    <img src="https://github.com/diengbtvu/diengbtvu/blob/main/gmail.svg" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 <h3 align="center">Software and Technology</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github.com/vhiepp/vhiepp/blob/main/tech.svg" />
+    <img src="https://github.com/diengbtvu/diengbtvu/blob/main/tech.svg" />
   </a>
 </p>
 <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="38" height="38"/>
